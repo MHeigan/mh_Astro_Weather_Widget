@@ -17,9 +17,7 @@ A compact **night‑vision‑friendly** desktop widget for astrophotography fiel
 **Download:** https://github.com/MHeigan/mh_Astro_Weather_Widget/releases/tag/mh_astro_weather_widget
 
 ## Installation (Zip Release) 🚀
-This release ships as: **mh_Astro_Weather_Widget.zip**
-
-**Note:** The Zip archive is in 2 parts. Download both parts and double-click on **mh_astro_weather_widget_Win_x64_v1.1.0.3.zip** to extract **mh_Astro_Weather_Widget**.
+This release ships as: **mh_Astro_Weather_Widget.zip**.
 
 1. Right‑click the zip → **Extract All…**
 2. Keep the extracted folder structure intact (do **not** move files around).
