@@ -14,7 +14,7 @@ A compact **night‑vision‑friendly** desktop widget for astrophotography fiel
 - **Units toggle:** Metric (default) or Imperial (US: °F / inHg / mph)
 
 ## Latest Release:
-https://github.com/MHeigan/mh_Astro_Weather_Widget/releases/tag/mh_astro_weather_widget
+**Download:** https://github.com/MHeigan/mh_Astro_Weather_Widget/releases/tag/mh_astro_weather_widget
 
 ## Installation (Zip Release) 🚀
 This release ships as: **mh_Astro_Weather_Widget.zip**
